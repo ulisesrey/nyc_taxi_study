@@ -1,16 +1,14 @@
-## New York City Taxi Study
+# New York City Taxi Study
 
 This project aims to get insights about the NYC transport behaviour of taxi rides during the years before, during and after the pandemic. The aim is to see how to the pandmic afected different parameters of taxi usage. It consists on 3 notebooks, which contain questions and answers to different problems/questions.
 
-### Notebook 1:
+## Notebook 1:
 
 Data pre-processing.
 
-### Notebook 2 and Notebook 3:
+## Notebook 2 and Notebook 3:
 
 Data Visualization and Analysis.
 
-### Acknowledgements:
-Originally a project of the Postgraduate course on Data Science, supervised by Pablo Laiz.
-
-## 
+## Acknowledgements:
+Originally a project of the Postgraduate course on Data Science from the University of Barcelona, supervised by Pablo Laiz.
